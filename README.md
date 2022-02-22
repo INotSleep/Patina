@@ -5,6 +5,7 @@
 
 ## WARNING
   This build WITHOUT Log4j 0day exploit fix! Use this build with your own risk!
+  Build intented for pterodactyl users on gaming hostings, where blocked jdbc/ldap packets.
 
 ## DISCLAIMER
   THIS SOFTWARE NOT MY DEVELOMENT! OWNERS OF THIS SOFTWARE IS [PATINAMC](https://github.com/PatinaMC/Patina)
